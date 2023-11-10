@@ -1,66 +1,66 @@
-#+BEGIN
-#+UPDATE_TIME 2014-07-16 11:36:00
-#+MESSAGE
+#+开始
+#+UPDATE _ TIME 2014-07-16 11:36:00
+#+消息
 #######################################################################
 #
-#  imouto.host
+# imouto.host
 #
-#  #Ver : 1.87.0424 Kafuu Chino
-#  #Update Time : 2014.07.16;11:36
-#  #Fix & Bug : 请参阅imouto.host.Readme.txt
+1.87.0424香风智乃
+# #更新时间:2014 . 07 . 16；11:36
+# #修复和修复错误:请参阅imuto . host . readme . txt
 #
-#  数据来源于互联网上的无名英雄们
-#  感谢他们！
+# 数据来源于互联网上的无名英雄们
+# 感谢他们！
 #
 #######################################################################
-#+MESSAGE_END
+#+消息_结束
 
-#localhost START
-127.0.0.1	localhost
-::1	localhost
-#localhost END
+#本地主机启动
+127.0.0.1本地主机
+* 1个本地主机
+#本地主机端
 
-#AdBlock START
-127.0.0.1	rad.msn.com
-127.0.0.1	rad.live.com
-127.0.0.1	servserv.generals.ea.com
-127.0.0.1	mangler1.generals.ea.com
-127.0.0.1	mangler2.generals.ea.com
-127.0.0.1	mangler3.generals.ea.com
-127.0.0.1	mangler4.generals.ea.com
-127.0.0.1	mangler5.generals.ea.com
-127.0.0.1	mangler6.generals.ea.com
-127.0.0.1	mangler7.generals.ea.com
-127.0.0.1	mangler8.generals.ea.com
-127.0.0.1	mangler9.generals.ea.com
-127.0.0.1	mangler10.generals.ea.com
-127.0.0.1	atm.youku.com
-127.0.0.1	Fvid.atm.youku.com
-127.0.0.1	html.atm.youku.com
-127.0.0.1	valb.atm.youku.com
-127.0.0.1	valf.atm.youku.com
-127.0.0.1	valo.atm.youku.com
-127.0.0.1	valp.atm.youku.com
-127.0.0.1	lstat.youku.com
-127.0.0.1	speed.lstat.youku.com
-127.0.0.1	urchin.lstat.youku.com
-127.0.0.1	stat.youku.com
-127.0.0.1	static.lstat.youku.com
-127.0.0.1	valc.atm.youku.com
-127.0.0.1	vid.atm.youku.com
-127.0.0.1	walp.atm.youku.com
-127.0.0.1	a.baidu.com
-127.0.0.1	baidutv.baidu.com
-127.0.0.1	bar.baidu.com
-127.0.0.1	c.baidu.com
-127.0.0.1	cjhq.baidu.com
-127.0.0.1	drmcmm.baidu.com
-127.0.0.1	e.baidu.com
-127.0.0.1	eiv.baidu.com
-127.0.0.1	hc.baidu.com
-127.0.0.1	hm.baidu.com
-127.0.0.1	ma.baidu.com
-127.0.0.1	nsclick.baidu.com
+#AdBlock开始
+127 . 0 . 0 . 1 rad.msn.com
+127 . 0 . 0 . 1 rad.live.com
+127 . 0 . 0 . 1 servserv.generals.ea.com
+127 . 0 . 0 . 1 mangler1.generals.ea.com
+127 . 0 . 0 . 1 mangler2.generals.ea.com
+127 . 0 . 0 . 1 mangler3.generals.ea.com
+127 . 0 . 0 . 1 mangler4.generals.ea.com
+127 . 0 . 0 . 1 mangler5.generals.ea.com
+127 . 0 . 0 . 1 mangler6.generals.ea.com
+127 . 0 . 0 . 1 mangler7.generals.ea.com
+127 . 0 . 0 . 1 mangler8.generals.ea.com
+127 . 0 . 0 . 1 mangler9.generals.ea.com
+127 . 0 . 0 . 1 mangler10.generals.ea.com
+127 . 0 . 0 . 1 atm.youku.com
+127 . 0 . 0 . 1 Fvid.atm.youku.com
+127 . 0 . 0 . 1 html.atm.youku.com
+127 . 0 . 0 . 1 valb.atm.youku.com
+127 . 0 . 0 . 1 valf.atm.youku.com
+127 . 0 . 0 . 1 valo.atm.youku.com
+127 . 0 . 0 . 1 valp.atm.youku.com
+127 . 0 . 0 . 1 lstat.youku.com
+127 . 0 . 0 . 1 speed.lstat.youku.com
+127 . 0 . 0 . 1 urchin.lstat.youku.com
+127 . 0 . 0 . 1 stat.youku.com
+127 . 0 . 0 . 1 static.lstat.youku.com
+127 . 0 . 0 . 1 valc.atm.youku.com
+127 . 0 . 0 . 1 vid.atm.youku.com
+127 . 0 . 0 . 1 walp.atm.youku.com
+127 . 0 . 0 . 1 a.baidu.com
+127 . 0 . 0 . 1 baidutv.baidu.com
+127 . 0 . 0 . 1 bar.baidu.com
+127 . 0 . 0 . 1 c.baidu.com
+127 . 0 . 0 . 1 cjhq.baidu.com
+127 . 0 . 0 . 1 drmcmm.baidu.com
+127 . 0 . 0 . 1 e.baidu.com
+127 . 0 . 0 . 1 eiv.baidu.com
+127 . 0 . 0 . 1 hc.baidu.com
+127 . 0 . 0 . 1 hm.baidu.com
+127 . 0 . 0 . 1 ma.baidu.com
+127 . 0 . 0 . 1 nsclick.baidu.com
 127.0.0.1	spcode.baidu.com
 127.0.0.1	tk.baidu.com
 127.0.0.1	union.baidu.com
